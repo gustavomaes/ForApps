@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2016",
+    "baseUrl": "./src"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
